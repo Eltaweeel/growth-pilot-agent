@@ -34,6 +34,10 @@ The instructions describe approval boundaries, but permission enforcement requir
 - `demo/PROMPTS.md`: exact evaluation/demo tasks.
 - `evidence/EVALUATION_SUMMARY.md`: observed results and limits.
 
+## Submission media
+
+The [v0.1.0 release](https://github.com/Eltaweeel/growth-pilot-agent/releases/tag/v0.1.0) contains the pitch deck in PDF and editable PowerPoint, a configuration-source ZIP, and a 2 minute 51 second MP4 demonstration with English subtitles and transcript. The video is an edited walkthrough of previously generated output excerpts and an actual Wesam Preview screenshot, using synthetic narration. It is not a continuous recording of live generation. Synthetic figures and unmeasured business impact are labeled.
+
 ## Scope
 
 Jood Homes is the first owner-supplied case, not a verified performance case study. All demo funnel numbers are synthetic. The prototype is industry-agnostic and supports English and Arabic. Analytics integrations, deployed messaging, marketplace publication, scheduling, and measured time/cost/revenue benefits remain outside the verified prototype.
