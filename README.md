@@ -36,7 +36,7 @@ The instructions describe approval boundaries, but permission enforcement requir
 
 ## Submission media
 
-The [v0.1.0 release](https://github.com/Eltaweeel/growth-pilot-agent/releases/tag/v0.1.0) contains the pitch deck in PDF and editable PowerPoint, a configuration-source ZIP, and a 2 minute 51 second MP4 demonstration with English subtitles and transcript. The video is an edited walkthrough of previously generated output excerpts and an actual Wesam Preview screenshot, using synthetic narration. It is not a continuous recording of live generation. Synthetic figures and unmeasured business impact are labeled.
+The [v0.2.0 release](https://github.com/Eltaweeel/growth-pilot-agent/releases/tag/v0.2.0) contains the pitch deck in PDF and editable PowerPoint, a configuration-source ZIP, and a 2 minute 10 second MP4 with English subtitles and transcript. The replacement video shows a fresh Wesam session captured on 11 October 2026: business-brief submission, provisional diagnosis, a 14-day experiment, English and Egyptian Arabic drafts, and a follow-up automation design. The narration explains the use case and actions rather than reading the pitch presentation. Processing waits are shortened and actual interface captures are enlarged for readability. Business impact remains unmeasured and the automation has not been deployed.
 
 ## Scope
 
